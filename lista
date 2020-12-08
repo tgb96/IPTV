@@ -1,0 +1,172 @@
+#EXTM3U
+#EXTINF:0,CDF Básico
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/6816
+#EXTINF:0,CDF Premium
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/6818
+#EXTINF:0,CDF HD
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/17
+#EXTINF:0,CDF HD *
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/6817
+#EXTINF:0,CDF Full HD
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/16
+#EXTINF:0,CDF Full HD *
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/18
+#EXTINF:0,CL: ESPN HD
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/31
+#EXTINF:0,CL: ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/32
+#EXTINF:0,CL: ESPN 3 HD
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/33
+#EXTINF:0,CL: Fox Sports HD
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/20
+#EXTINF:0,CL: Fox Sports 1 HD
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/22
+#EXTINF:0,CL: Fox Sports 2 HD
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/24
+#EXTINF:0,CL: Fox Sports 3 HD
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/26
+#EXTINF:0,ES: Movistar La Liga Full HD
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/8063
+#EXTINF:0,ES: Liga de Campeones HD
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/8037
+#EXTINF:0,ES: Bein La Liga
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/7832
+#EXTINF:0,ES: Bein La Liga *
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/7837
+#EXTINF:0,ES: Movistar F1
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/8022
+#EXTINF:0,ES: Movistar F1 *
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/8006
+#EXTINF:0,ES: Movistar F1 **
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/8005
+#EXTINF:0,ES: Movistar F1 Full HD
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/8021
+#EXTINF:0,ES: Movistar F1 HD
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/7839
+#EXTINF:0,ESPN HD
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/3474
+#EXTINF:0,ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/3477
+#EXTINF:0,ESPN 3 HD
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/3480
+#EXTINF:0,Win Sports HD
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/8287
+#EXTINF:0,CL: La Red HD
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/10
+#EXTINF:0,CL: La Red Full HD
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/9
+#EXTINF:0,CL: TVN HD
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/8
+#EXTINF:0,CL: TVN Full HD
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/7
+#EXTINF:0,CL: Mega HD
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/2
+#EXTINF:0,CL: Mega Full HD
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/1
+#EXTINF:0,CL: CHV HD
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/6
+#EXTINF:0,CL: CHV Full HD
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/5
+#EXTINF:0,CL: Canal 13 HD
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/4
+#EXTINF:0,CL: Canal 13 Full HD
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/3
+#EXTINF:0,CL: 13C HD
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/47
+#EXTINF:0,24 Horas HD
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/2109
+#EXTINF:0,T13
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/2111
+#EXTINF:0,CNN Chile HD
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/7464
+#EXTINF:0,CNN en Español
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/7471
+#EXTINF:0,CNN Internacional
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/7472
+#EXTINF:0,Discovery Channel HD
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/123
+#EXTINF:0,Discovery Channel Full HD
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/105
+#EXTINF:0,24/7 Bob Esponja
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/277
+#EXTINF:0,24/7 El chavo del 8
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/291
+#EXTINF:0,24/7 Hey Arnold *
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/299
+#EXTINF:0,24/7 Los Simpson HD
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/307
+#EXTINF:0,24/7 Hey Arnold
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/9103
+#EXTINF:0,24/7 Game Of Thrones S01
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/9093
+#EXTINF:0,24/7 Game Of Thrones S02
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/9095
+#EXTINF:0,24/7 Game Of Thrones S03
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/9096
+#EXTINF:0,24/7 Game Of Thrones S04
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/9097
+#EXTINF:0,24/7 Game Of Thrones S05
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/9099
+#EXTINF:0,24/7 Game Of Thrones S06
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/9100
+#EXTINF:0,24/7 Game Of Thrones S07
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/9101
+#EXTINF:0,24/7 Game Of Thrones S08
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/9102
