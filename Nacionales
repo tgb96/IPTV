@@ -1,0 +1,48 @@
+#EXTINF:0,CL: La Red HD
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/10
+#EXTINF:0,CL: La Red Full HD
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/9
+#EXTINF:0,CL: TVN HD
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/8
+#EXTINF:0,CL: TVN Full HD
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/7
+#EXTINF:0,CL: Mega HD
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/2
+#EXTINF:0,CL: Mega Full HD
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/1
+#EXTINF:0,CL: CHV HD
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/6
+#EXTINF:0,CL: CHV Full HD
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/5
+#EXTINF:0,CL: Canal 13 HD
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/4
+#EXTINF:0,CL: Canal 13 Full HD
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/3
+#EXTINF:0,CL: 13C HD
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/47
+#EXTINF:0,24 Horas HD
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/2109
+#EXTINF:0,T13
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/2111
+#EXTINF:0,CNN Chile HD
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/7464
+#EXTINF:0,CNN en Español
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/7471
+#EXTINF:0,CNN Internacional
+#EXTVLCOPT:network-caching=1000
+http://live.iptv.wtf:80/ninbmppi/yK7nzB01i7/7472
